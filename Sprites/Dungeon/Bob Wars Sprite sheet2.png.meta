@@ -1,0 +1,3344 @@
+fileFormatVersion: 2
+guid: 0d6b8f30e320d6345b31cbc553991397
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2894336737645843243
+    second: Bob Wars Sprite sheet2_0
+  - first:
+      213: 8308326892943608184
+    second: Bob Wars Sprite sheet2_1
+  - first:
+      213: 8852226256111078517
+    second: Bob Wars Sprite sheet2_2
+  - first:
+      213: -5940648106899282616
+    second: Bob Wars Sprite sheet2_3
+  - first:
+      213: -78289647756467712
+    second: Bob Wars Sprite sheet2_4
+  - first:
+      213: 2945459421270803806
+    second: Bob Wars Sprite sheet2_5
+  - first:
+      213: 2826437929434933653
+    second: Bob Wars Sprite sheet2_6
+  - first:
+      213: 8765319563306067196
+    second: Bob Wars Sprite sheet2_7
+  - first:
+      213: 1542070714359552238
+    second: Bob Wars Sprite sheet2_8
+  - first:
+      213: 3407733852482097357
+    second: Bob Wars Sprite sheet2_9
+  - first:
+      213: 6588010412777055581
+    second: Bob Wars Sprite sheet2_10
+  - first:
+      213: -6634460738679284848
+    second: Bob Wars Sprite sheet2_11
+  - first:
+      213: 4970253837732435172
+    second: Bob Wars Sprite sheet2_12
+  - first:
+      213: -7115321981051046538
+    second: Bob Wars Sprite sheet2_13
+  - first:
+      213: 8570720621578270540
+    second: Bob Wars Sprite sheet2_14
+  - first:
+      213: -469135453743092971
+    second: Bob Wars Sprite sheet2_15
+  - first:
+      213: 1045552373665532484
+    second: Bob Wars Sprite sheet2_16
+  - first:
+      213: 7731685730972636963
+    second: Bob Wars Sprite sheet2_17
+  - first:
+      213: 25611762525998195
+    second: Bob Wars Sprite sheet2_18
+  - first:
+      213: -8944460079824132552
+    second: Bob Wars Sprite sheet2_19
+  - first:
+      213: 792082594217355852
+    second: Bob Wars Sprite sheet2_20
+  - first:
+      213: 7492880651952808642
+    second: Bob Wars Sprite sheet2_21
+  - first:
+      213: -875526198014725799
+    second: Bob Wars Sprite sheet2_22
+  - first:
+      213: 5224227468357719169
+    second: Bob Wars Sprite sheet2_23
+  - first:
+      213: 5875784765119101392
+    second: Bob Wars Sprite sheet2_24
+  - first:
+      213: 7911459206288198070
+    second: Bob Wars Sprite sheet2_25
+  - first:
+      213: -8857725196435950053
+    second: Bob Wars Sprite sheet2_26
+  - first:
+      213: 5788435916790883035
+    second: Bob Wars Sprite sheet2_27
+  - first:
+      213: 3592875569114310576
+    second: Bob Wars Sprite sheet2_28
+  - first:
+      213: -8517520311805371329
+    second: Bob Wars Sprite sheet2_29
+  - first:
+      213: -6556932956343084650
+    second: Bob Wars Sprite sheet2_30
+  - first:
+      213: 3270324240988372648
+    second: Bob Wars Sprite sheet2_31
+  - first:
+      213: 5845972351686561559
+    second: Bob Wars Sprite sheet2_32
+  - first:
+      213: -7820230209571016852
+    second: Bob Wars Sprite sheet2_33
+  - first:
+      213: -966271177124296696
+    second: Bob Wars Sprite sheet2_34
+  - first:
+      213: 4064631168463148655
+    second: Bob Wars Sprite sheet2_35
+  - first:
+      213: 3870982170609582174
+    second: Bob Wars Sprite sheet2_36
+  - first:
+      213: 655854905282437159
+    second: Bob Wars Sprite sheet2_37
+  - first:
+      213: -7407741241067485469
+    second: Bob Wars Sprite sheet2_38
+  - first:
+      213: -253973568850991458
+    second: Bob Wars Sprite sheet2_39
+  - first:
+      213: -2823527008695799495
+    second: Bob Wars Sprite sheet2_40
+  - first:
+      213: -1947383561843388749
+    second: Bob Wars Sprite sheet2_41
+  - first:
+      213: 1285052791169479386
+    second: Bob Wars Sprite sheet2_42
+  - first:
+      213: 5666780902271014272
+    second: Bob Wars Sprite sheet2_43
+  - first:
+      213: -4035574944565965834
+    second: Bob Wars Sprite sheet2_44
+  - first:
+      213: -2472116269461455814
+    second: Bob Wars Sprite sheet2_45
+  - first:
+      213: -6656461363639975822
+    second: Bob Wars Sprite sheet2_46
+  - first:
+      213: -2392350564796761374
+    second: Bob Wars Sprite sheet2_47
+  - first:
+      213: -2548574349462067188
+    second: Bob Wars Sprite sheet2_48
+  - first:
+      213: 8283668810560473210
+    second: Bob Wars Sprite sheet2_49
+  - first:
+      213: -3328728139720066869
+    second: Bob Wars Sprite sheet2_50
+  - first:
+      213: -1634161327435838868
+    second: Bob Wars Sprite sheet2_51
+  - first:
+      213: 5050121681674095726
+    second: Bob Wars Sprite sheet2_52
+  - first:
+      213: -3085332023778744235
+    second: Bob Wars Sprite sheet2_53
+  - first:
+      213: -282667002569591198
+    second: Bob Wars Sprite sheet2_54
+  - first:
+      213: -8744769513230715082
+    second: Bob Wars Sprite sheet2_55
+  - first:
+      213: -2708242019353706679
+    second: Bob Wars Sprite sheet2_56
+  - first:
+      213: 5946980406457392861
+    second: Bob Wars Sprite sheet2_57
+  - first:
+      213: -3152811617848549845
+    second: Bob Wars Sprite sheet2_58
+  - first:
+      213: -6554975070833036107
+    second: Bob Wars Sprite sheet2_59
+  - first:
+      213: -4636393324969787491
+    second: Bob Wars Sprite sheet2_60
+  - first:
+      213: 8396150753989008381
+    second: Bob Wars Sprite sheet2_61
+  - first:
+      213: -5095722411447119568
+    second: Bob Wars Sprite sheet2_62
+  - first:
+      213: -4367164539424756693
+    second: Bob Wars Sprite sheet2_63
+  - first:
+      213: -6724433932753342033
+    second: Bob Wars Sprite sheet2_64
+  - first:
+      213: 2915772155918125468
+    second: Bob Wars Sprite sheet2_65
+  - first:
+      213: 7825788146757754389
+    second: Bob Wars Sprite sheet2_66
+  - first:
+      213: -6224445652563968397
+    second: Bob Wars Sprite sheet2_67
+  - first:
+      213: -2634153576633032682
+    second: Bob Wars Sprite sheet2_68
+  - first:
+      213: -5651273755334937555
+    second: Bob Wars Sprite sheet2_69
+  - first:
+      213: 2107382983401039263
+    second: Bob Wars Sprite sheet2_70
+  - first:
+      213: -8872263865252171941
+    second: Bob Wars Sprite sheet2_71
+  - first:
+      213: 1703237523925307141
+    second: Bob Wars Sprite sheet2_72
+  - first:
+      213: 8622925874179358271
+    second: Bob Wars Sprite sheet2_73
+  - first:
+      213: -3025615501037760695
+    second: Bob Wars Sprite sheet2_74
+  - first:
+      213: -2510533148112722230
+    second: Bob Wars Sprite sheet2_75
+  - first:
+      213: -796350048164521457
+    second: Bob Wars Sprite sheet2_76
+  - first:
+      213: -5349785347309546789
+    second: Bob Wars Sprite sheet2_77
+  - first:
+      213: 1284639031317572930
+    second: Bob Wars Sprite sheet2_78
+  - first:
+      213: 3611997343439495249
+    second: Bob Wars Sprite sheet2_79
+  - first:
+      213: -8824621428943086871
+    second: Bob Wars Sprite sheet2_80
+  - first:
+      213: -333288271461212366
+    second: Bob Wars Sprite sheet2_81
+  - first:
+      213: 4379138741641394402
+    second: Bob Wars Sprite sheet2_82
+  - first:
+      213: 5163709177725743959
+    second: Bob Wars Sprite sheet2_83
+  - first:
+      213: -5779244151615566511
+    second: Bob Wars Sprite sheet2_84
+  - first:
+      213: 6497375671047229116
+    second: Bob Wars Sprite sheet2_85
+  - first:
+      213: -3612449897462887425
+    second: Bob Wars Sprite sheet2_86
+  - first:
+      213: 4952579651041376246
+    second: Bob Wars Sprite sheet2_87
+  - first:
+      213: -2554744432829509444
+    second: Bob Wars Sprite sheet2_88
+  - first:
+      213: -6754378919931095936
+    second: Bob Wars Sprite sheet2_89
+  - first:
+      213: -4371320045870011102
+    second: Bob Wars Sprite sheet2_90
+  - first:
+      213: -8184539711825941041
+    second: Bob Wars Sprite sheet2_91
+  - first:
+      213: -8987238901486314999
+    second: Bob Wars Sprite sheet2_92
+  - first:
+      213: -6571598099940932685
+    second: Bob Wars Sprite sheet2_93
+  - first:
+      213: -6928572716554643446
+    second: Bob Wars Sprite sheet2_94
+  - first:
+      213: 7744511419559321188
+    second: Bob Wars Sprite sheet2_95
+  - first:
+      213: 2910558896649713643
+    second: Bob Wars Sprite sheet2_96
+  - first:
+      213: 1284681357900905106
+    second: Bob Wars Sprite sheet2_97
+  - first:
+      213: 5891924672759712190
+    second: Bob Wars Sprite sheet2_98
+  - first:
+      213: 7901930664445691060
+    second: Bob Wars Sprite sheet2_99
+  - first:
+      213: 3993103743405735004
+    second: Bob Wars Sprite sheet2_100
+  - first:
+      213: -4554443745658487677
+    second: Bob Wars Sprite sheet2_101
+  - first:
+      213: -2493899348039065165
+    second: Bob Wars Sprite sheet2_102
+  - first:
+      213: 5799226942624088392
+    second: Bob Wars Sprite sheet2_103
+  - first:
+      213: -6003815686391363515
+    second: Bob Wars Sprite sheet2_104
+  - first:
+      213: -1694024051994040778
+    second: Bob Wars Sprite sheet2_105
+  - first:
+      213: 3665139849079352980
+    second: Bob Wars Sprite sheet2_106
+  - first:
+      213: -7773366024601877608
+    second: Bob Wars Sprite sheet2_107
+  - first:
+      213: 1011825874098000474
+    second: Bob Wars Sprite sheet2_108
+  - first:
+      213: 3861881764818072520
+    second: Bob Wars Sprite sheet2_109
+  - first:
+      213: 3325453972751543805
+    second: Bob Wars Sprite sheet2_110
+  - first:
+      213: 4065793178033953848
+    second: Bob Wars Sprite sheet2_111
+  - first:
+      213: -8879323876619126166
+    second: Bob Wars Sprite sheet2_112
+  - first:
+      213: -4166547266037210865
+    second: Bob Wars Sprite sheet2_113
+  - first:
+      213: 6848860600564298119
+    second: Bob Wars Sprite sheet2_114
+  - first:
+      213: 5493053186072666390
+    second: Bob Wars Sprite sheet2_115
+  - first:
+      213: -8906646930135321925
+    second: Bob Wars Sprite sheet2_116
+  - first:
+      213: 1218779923073266633
+    second: Bob Wars Sprite sheet2_117
+  - first:
+      213: -6040934677316011689
+    second: Bob Wars Sprite sheet2_118
+  - first:
+      213: 9144451831377573369
+    second: Bob Wars Sprite sheet2_119
+  - first:
+      213: -585675257488690918
+    second: Bob Wars Sprite sheet2_120
+  - first:
+      213: -7834745659408320251
+    second: Bob Wars Sprite sheet2_121
+  - first:
+      213: 6796929319533881477
+    second: Bob Wars Sprite sheet2_122
+  - first:
+      213: -531825490717820343
+    second: Bob Wars Sprite sheet2_123
+  - first:
+      213: 5572307559428407309
+    second: Bob Wars Sprite sheet2_124
+  - first:
+      213: 1948295553673785995
+    second: Bob Wars Sprite sheet2_125
+  - first:
+      213: -8370438280772175099
+    second: Bob Wars Sprite sheet2_126
+  - first:
+      213: -5336528549689390849
+    second: Bob Wars Sprite sheet2_127
+  - first:
+      213: 1736596164612950788
+    second: Bob Wars Sprite sheet2_128
+  - first:
+      213: -8855855686588168897
+    second: Bob Wars Sprite sheet2_129
+  - first:
+      213: -6763068356930215399
+    second: Bob Wars Sprite sheet2_130
+  - first:
+      213: 3433631340284878608
+    second: Bob Wars Sprite sheet2_131
+  - first:
+      213: 8931693361322438401
+    second: Bob Wars Sprite sheet2_132
+  - first:
+      213: -3279932920129616492
+    second: Bob Wars Sprite sheet2_133
+  - first:
+      213: -7792541204427294417
+    second: Bob Wars Sprite sheet2_134
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dca14c621045d7d0800000000000000
+      internalID: -2894336737645843243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8798abb2a4b1d4370800000000000000
+      internalID: 8308326892943608184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c03eaf0ec69da70800000000000000
+      internalID: 8852226256111078517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ebac85049e8da0800000000000000
+      internalID: -5940648106899282616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002a2ebeafbd9eef0800000000000000
+      internalID: -78289647756467712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e558c29ecbf50e820800000000000000
+      internalID: 2945459421270803806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e8ab5256893720800000000000000
+      internalID: 2826437929434933653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_7
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4e3a1c3bba4a970800000000000000
+      internalID: 8765319563306067196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee81febf429866510800000000000000
+      internalID: 1542070714359552238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0d44642e3ba4f20800000000000000
+      internalID: 3407733852482097357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55a62ec0905d6b50800000000000000
+      internalID: 6588010412777055581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_11
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdebaeb19ade3a0800000000000000
+      internalID: -6634460738679284848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e450992883e9f440800000000000000
+      internalID: 4970253837732435172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757ce85b5c414d90800000000000000
+      internalID: -7115321981051046538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47b946eef051f670800000000000000
+      internalID: 8570720621578270540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51be9185acb4d79f0800000000000000
+      internalID: -469135453743092971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a8662285c828e00800000000000000
+      internalID: 1045552373665532484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327949545377c4b60800000000000000
+      internalID: 7731685730972636963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0f6723cdfa5000800000000000000
+      internalID: 25611762525998195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ab6a72f4eed380800000000000000
+      internalID: -8944460079824132552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_20
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a681d3cea0efa00800000000000000
+      internalID: 792082594217355852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_21
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c26b04014f0cf760800000000000000
+      internalID: 7492880651952808642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 178
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951b8c7cf8189d3f0800000000000000
+      internalID: -875526198014725799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184dc4d043f208840800000000000000
+      internalID: 5224227468357719169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d97395dc1bfa8150800000000000000
+      internalID: 5875784765119101392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_25
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b94dcd3b362bcd60800000000000000
+      internalID: 7911459206288198070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1678643dd9031580800000000000000
+      internalID: -8857725196435950053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2ee614cc7a45050800000000000000
+      internalID: 5788435916790883035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7ec335b457cd130800000000000000
+      internalID: 3592875569114310576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c9aa77760bbc980800000000000000
+      internalID: -8517520311805371329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6995e1167381105a0800000000000000
+      internalID: -6556932956343084650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_31
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aef57cf196826d20800000000000000
+      internalID: 3270324240988372648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f480d61e0112150800000000000000
+      internalID: 5845972351686561559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_33
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fadb8ce06f87390800000000000000
+      internalID: -7820230209571016852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808cec2eb7d1792f0800000000000000
+      internalID: -966271177124296696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_35
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f661a3b2388786830800000000000000
+      internalID: 4064631168463148655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e500e0b56cd78b530800000000000000
+      internalID: 3870982170609582174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720ae8dbf801a1900800000000000000
+      internalID: 655854905282437159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64922d69a623990800000000000000
+      internalID: -7407741241067485469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e966c4e7264b97cf0800000000000000
+      internalID: -253973568850991458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_40
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93137f03521d0d8d0800000000000000
+      internalID: -2823527008695799495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bec3ead7f089f4e0800000000000000
+      internalID: -1947383561843388749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2f74f74bc65d110800000000000000
+      internalID: 1285052791169479386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085d4dbe43374ae40800000000000000
+      internalID: 5666780902271014272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbcda428f1cef7c0800000000000000
+      internalID: -4035574944565965834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c394bc95741bdd0800000000000000
+      internalID: -2472116269461455814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_46
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270802f38af7f93a0800000000000000
+      internalID: -6656461363639975822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_47
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea751726d9acced0800000000000000
+      internalID: -2392350564796761374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0824a0d125a1acd0800000000000000
+      internalID: -2548574349462067188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_49
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78807af4e085f270800000000000000
+      internalID: 8283668810560473210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_50
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8732ea46bfdc1d0800000000000000
+      internalID: -3328728139720066869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a818c4eea4259e0800000000000000
+      internalID: -1634161327435838868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 142
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cceaca9e2a51640800000000000000
+      internalID: 5050121681674095726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_53
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558e7840fd2be25d0800000000000000
+      internalID: -3085332023778744235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2667d1adbd3c31cf0800000000000000
+      internalID: -282667002569591198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_55
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637b731a57654a680800000000000000
+      internalID: -8744769513230715082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_56
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fb2a67b346a6ad0800000000000000
+      internalID: -2708242019353706679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dded915db2be78250800000000000000
+      internalID: 5946980406457392861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_58
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9962b986fe34d0800000000000000
+      internalID: -3152811617848549845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_59
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b47f17ec0805a0800000000000000
+      internalID: -6554975070833036107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ffe2ae5d838afb0800000000000000
+      internalID: -4636393324969787491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb942440ae158470800000000000000
+      internalID: 8396150753989008381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03192bf077b5849b0800000000000000
+      internalID: -5095722411447119568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ca7e75df6b463c0800000000000000
+      internalID: -4367164539424756693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_64
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa177aa37f20ea2a0800000000000000
+      internalID: -6724433932753342033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_65
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99897fc357e67820800000000000000
+      internalID: 2915772155918125468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_66
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e55fe4bd8ca9c60800000000000000
+      internalID: 7825788146757754389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_67
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e333358a35e99a0800000000000000
+      internalID: -6224445652563968397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 124
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610a6f4474b917bd0800000000000000
+      internalID: -2634153576633032682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24f5c41674a291b0800000000000000
+      internalID: -5651273755334937555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_70
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95625378adee3d10800000000000000
+      internalID: 2107382983401039263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f2c1695036fd480800000000000000
+      internalID: -8872263865252171941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f0fadf08d13a710800000000000000
+      internalID: 1703237523925307141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_73
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e3cf67569caa770800000000000000
+      internalID: 8622925874179358271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f8ab17bbad206d0800000000000000
+      internalID: -3025615501037760695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_75
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e5e5376bc82dd0800000000000000
+      internalID: -2510533148112722230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad946b9dbc2f4f0800000000000000
+      internalID: -796350048164521457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_77
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2560d229eb1c5b0800000000000000
+      internalID: -5349785347309546789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d29468464f3d110800000000000000
+      internalID: 1284639031317572930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_79
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150ad595274602230800000000000000
+      internalID: 3611997343439495249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_80
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea1c82b095a88580800000000000000
+      internalID: -8824621428943086871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_81
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f10cb351cef5bf0800000000000000
+      internalID: -333288271461212366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_82
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8bfaddb73d5cc30800000000000000
+      internalID: 4379138741641394402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75374cd732e29a740800000000000000
+      internalID: 5163709177725743959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_84
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 106
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d43b850100ccfa0800000000000000
+      internalID: -5779244151615566511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe090d8fb05b2a50800000000000000
+      internalID: 6497375671047229116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_86
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb04d435fffdddc0800000000000000
+      internalID: -3612449897462887425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73626e3f81bb440800000000000000
+      internalID: 4952579651041376246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_88
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb05a455979bb8cd0800000000000000
+      internalID: -2554744432829509444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084de179820a342a0800000000000000
+      internalID: -6754378919931095936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_90
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22daf5a1493f553c0800000000000000
+      internalID: -4371320045870011102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_91
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd6982ee7caa6e80800000000000000
+      internalID: -8184539711825941041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_92
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a1655e5d9e64380800000000000000
+      internalID: -8987238901486314999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3836e885efcc4a0800000000000000
+      internalID: -6571598099940932685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a081c4dc2d3c8df90800000000000000
+      internalID: -6928572716554643446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_95
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e1ac99a180a7b60800000000000000
+      internalID: 7744511419559321188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7b8ac45e1646820800000000000000
+      internalID: 2910558896649713643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29aff3373ea14d110800000000000000
+      internalID: 1284681357900905106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9c33be54254c150800000000000000
+      internalID: 5891924672759712190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_99
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b44d06b21c49ad60800000000000000
+      internalID: 7901930664445691060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3bf0c2ba5a6730800000000000000
+      internalID: 3993103743405735004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cb6863b8d5bc0c0800000000000000
+      internalID: -4554443745658487677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ad8691c3e36dd0800000000000000
+      internalID: -2493899348039065165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_103
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cbfebd2efa7050800000000000000
+      internalID: 5799226942624088392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_104
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54889bb51792eaca0800000000000000
+      internalID: -6003815686391363515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366deb991e9d78e0800000000000000
+      internalID: -1694024051994040778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_106
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ee08426413dd230800000000000000
+      internalID: 3665139849079352980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_107
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893c38229c47f1490800000000000000
+      internalID: -7773366024601877608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521928854aba0e00800000000000000
+      internalID: 1011825874098000474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c33a840109289530800000000000000
+      internalID: 3861881764818072520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_110
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd64cae4c2662e20800000000000000
+      internalID: 3325453972751543805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_111
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c9bea9a599c6830800000000000000
+      internalID: 4065793178033953848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_112
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af8789afd46c480800000000000000
+      internalID: -8879323876619126166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_113
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f012afb36537d26c0800000000000000
+      internalID: -4166547266037210865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_114
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781bdcced6a0c0f50800000000000000
+      internalID: 6848860600564298119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_115
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6116030f4ce3b3c40800000000000000
+      internalID: 5493053186072666390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2f5757ecb356480800000000000000
+      internalID: -8906646930135321925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_117
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3f826f1e9f9e010800000000000000
+      internalID: 1218779923073266633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_118
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7597d3fcae94a2ca0800000000000000
+      internalID: -6040934677316011689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_119
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f53ee2cd7e97ee70800000000000000
+      internalID: 9144451831377573369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_120
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b6a3d4734fd7f0800000000000000
+      internalID: -585675257488690918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_121
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509fe614554654390800000000000000
+      internalID: -7834745659408320251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_122
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5882146543b835e50800000000000000
+      internalID: 6796929319533881477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_123
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a344fa8839e98f0800000000000000
+      internalID: -531825490717820343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_124
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0044f2b330d45d40800000000000000
+      internalID: 5572307559428407309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_125
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82f23acb7cb90b10800000000000000
+      internalID: 1948295553673785995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_126
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b3e3c6bba36db80800000000000000
+      internalID: -8370438280772175099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_127
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff88806ee87d0f5b0800000000000000
+      internalID: -5336528549689390849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_128
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b8f06c201a91810800000000000000
+      internalID: 1736596164612950788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_129
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f350ac26c2ea91580800000000000000
+      internalID: -8855855686588168897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_130
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9126d716921c422a0800000000000000
+      internalID: -6763068356930215399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_131
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f14570385b6af20800000000000000
+      internalID: 3433631340284878608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fa65c3acfb3fb70800000000000000
+      internalID: 8931693361322438401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_133
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495809013665b72d0800000000000000
+      internalID: -3279932920129616492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bob Wars Sprite sheet2_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29348caf055bd390800000000000000
+      internalID: -7792541204427294417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f871ca216c418d4fb58b6604f26f929
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
