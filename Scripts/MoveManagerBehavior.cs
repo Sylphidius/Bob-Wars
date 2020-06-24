@@ -10,6 +10,7 @@ public class MoveManagerBehavior : MonoBehaviour
     public PathSelector pathSelector;
     public bool select = true;
     public bool move = false;
+    public bool active = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -20,17 +21,37 @@ public class MoveManagerBehavior : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(p != null)
+        if (active)
+            Move();
+    }
+    public void Move()
+    {
+        if (p != null)
         {
             if (select)
             {
                 if (Input.GetKeyDown(KeyCode.Space))
                 {
-                    select = false;
-                    path = pathSelector.getPath();
-                    pathSelector.gameObject.SetActive(false);
-                } else if (Input.GetKeyDown(KeyCode.B)) pathSelector.Init(p.transform.position);
-            } else if (path.Count != 0)
+                    if (pathSelector.getPath().Count != 1)
+                    {
+                        select = false;
+                        path = pathSelector.getPath();
+                        pathSelector.enabled = false;
+                    }
+                    else
+                    {
+                        pathSelector.Init(p.transform.position);
+                    }
+                }
+                else if (Input.GetKeyDown(KeyCode.B)) 
+                {
+                    if (pathSelector.getPath().Count != 1)
+                        pathSelector.Init(p.transform.position);
+                    else
+                        Desactivate();
+                }
+            }
+            else if (path.Count != 0)
             {
                 if (p.stop)
                 {
@@ -44,10 +65,25 @@ public class MoveManagerBehavior : MonoBehaviour
                 if (p.stop)
                 {
                     select = true;
-                    pathSelector.gameObject.SetActive(true);
-                    pathSelector.Init(p.transform.position);
+                    pathSelector.enabled = true;
+                    Desactivate();
+
                 }
             }
         }
+    }
+    public void Activate()
+    {
+        pathSelector.Activate();
+        active = true;
+        pathSelector.Init(p.transform.position);
+        
+    }
+    public void Desactivate()
+    {
+        pathSelector.Desactivate();
+        active = false;
+        pathSelector.Init(p.transform.position);
+        
     }
 }

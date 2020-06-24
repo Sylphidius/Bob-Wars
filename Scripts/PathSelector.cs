@@ -24,6 +24,8 @@ public class PathSelector : MonoBehaviour
     public float speed = 5f;
     public bool arrived = false;
     public SpriteRenderer sRenderer;
+    public bool active = false;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -31,10 +33,18 @@ public class PathSelector : MonoBehaviour
         targetPoint.parent = null;
         sRenderer = GetComponent<SpriteRenderer>();
         sRenderer.sprite = Right;
+        Desactivate();
     }
 
     // Update is called once per frame
     void Update()
+    {
+        if (active)
+        {
+            Action();
+        }
+    }
+    public void Action()
     {
         transform.position = Vector3.MoveTowards(transform.position, targetPoint.position, speed * Time.deltaTime);
         if (Vector3.Distance(transform.position, targetPoint.position) <= 0)
@@ -44,11 +54,11 @@ public class PathSelector : MonoBehaviour
                 AddPath();
                 arrived = false;
             }
-            if (!Physics2D.OverlapCircle(targetPoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.4f, stopMovement) && Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
+            if (!Physics2D.OverlapCircle(targetPoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.3f, stopMovement) && Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
             {
                 arrived = true;
                 targetPoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
-                if(actuel == "") 
+                if (actuel == "")
                 {
                     actuel = Input.GetAxisRaw("Vertical") == 1f ? "H" : "B";
                     precedent = actuel;
@@ -56,10 +66,10 @@ public class PathSelector : MonoBehaviour
                 else
                 {
                     precedent = actuel;
-                    actuel = Input.GetAxisRaw("Vertical") == 1f ? "H":"B";
+                    actuel = Input.GetAxisRaw("Vertical") == 1f ? "H" : "B";
                 }
             }
-            else if (!Physics2D.OverlapCircle(targetPoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), 0.4f, stopMovement) && Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f)
+            else if (!Physics2D.OverlapCircle(targetPoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), 0.3f, stopMovement) && Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f)
             {
                 arrived = true;
                 targetPoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
@@ -76,6 +86,19 @@ public class PathSelector : MonoBehaviour
             }
         }
     }
+
+    internal void Desactivate()
+    {
+        active = false;
+        sRenderer.enabled = false;
+    }
+
+    public void Activate()
+    {
+        active = true;
+        sRenderer.enabled = true;
+    }
+
     void AddPath() 
     {
         string s = precedent + actuel;
@@ -133,7 +156,6 @@ public class PathSelector : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(collision.gameObject.layer);
         if (collision.gameObject.layer == 9) {
             Debug.Log("trigger");
             arrived = false;
