@@ -6,6 +6,8 @@ public class GridMovement : MonoBehaviour
 {
     public float speed = 5f;
     public Transform targetPoint;
+    public Animator animator;
+    public SpriteRenderer chara;
     public LayerMask stopMovement;
     public bool stop = true;
     // Start is called before the first frame update
@@ -21,7 +23,12 @@ public class GridMovement : MonoBehaviour
         if (Vector3.Distance(transform.position, targetPoint.position) == 0)
         {
             stop = true;
+            animator.SetBool("Move", false);
         }
-        else stop = false;
+        else 
+        { 
+            stop = false; animator.SetBool("Move", true);
+            chara.flipX = (transform.position.x > targetPoint.position.x);
+        }
     }
 }

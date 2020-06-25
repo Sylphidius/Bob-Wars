@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 
 public class Menu : MonoBehaviour
 {
+    public Follow follow;
     public MoveManagerBehavior move;
     public GameObject mainMenuFirstButton;
     public GameObject mainMenu;
@@ -30,6 +31,7 @@ public class Menu : MonoBehaviour
                     state = State.Menu;
                     EventSystem.current.SetSelectedGameObject(null);
                     EventSystem.current.SetSelectedGameObject(mainMenuFirstButton);
+                    follow.Hide();
                 }
                 break;
         }
@@ -37,6 +39,8 @@ public class Menu : MonoBehaviour
     public void Move()
     {
         move.Activate();
+        follow.Show();
+        follow.SetTrack(move.pathSelector.targetPoint);
         mainMenu.SetActive(false);
         state = State.Move;
     }
